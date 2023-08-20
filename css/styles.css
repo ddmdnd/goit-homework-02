@@ -101,9 +101,9 @@ body {
 }
 
 /* <!-- SKILLS SECTION --> */
-
+/* #2e2f42 */
 .skill-section-item-title {
-  color: var(--navyblue);
+  color: #2e2f42;
   font-size: 20px;
   font-weight: 500;
   line-height: 1.2; /* 120% */
