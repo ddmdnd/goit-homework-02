@@ -121,6 +121,9 @@ body {
 .team-section {
   background-color: var(--cloud);
 }
+.team-section-list-item {
+  background-color: #ffffff;
+}
 .team-section-title {
   color: var(--navyblue);
   text-align: center;
@@ -129,7 +132,7 @@ body {
   line-height: 1.11; /* 111.111% */
   letter-spacing: 0.02em;
   text-transform: capitalize;
-  background-color: #ffffff;/* add background color */
+ /* del background color */
 }
 .team-section-list {
   background-color: #ffffff;
@@ -142,7 +145,7 @@ body {
   font-weight: 500;
   line-height: 1.2; /* 120% */
   letter-spacing: 0.02em;
-  background-color: #ffffff;
+  /* background-color: #ffffff; */
 
 .team-section-position {
   color: var(--slate);
@@ -150,7 +153,7 @@ body {
   font-weight: 400;
   line-height: 1.5; /* 150% */
   letter-spacing: 0.02em;
-  background-color: #ffffff;/* add background color */
+  /* del background color */
 }
 /* <!-- Portfolio Section --> */
 .porfolio-section {
