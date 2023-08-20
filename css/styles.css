@@ -129,6 +129,7 @@ body {
   line-height: 1.11; /* 111.111% */
   letter-spacing: 0.02em;
   text-transform: capitalize;
+  background-color: #ffffff;/* add background color */
 }
 .team-section-list {
   background-color: #ffffff;
@@ -142,13 +143,14 @@ body {
   line-height: 1.2; /* 120% */
   letter-spacing: 0.02em;
   background-color: #ffffff;
-}
+
 .team-section-position {
   color: var(--slate);
   font-size: 16px;
   font-weight: 400;
   line-height: 1.5; /* 150% */
   letter-spacing: 0.02em;
+  background-color: #ffffff;/* add background color */
 }
 /* <!-- Portfolio Section --> */
 .porfolio-section {
