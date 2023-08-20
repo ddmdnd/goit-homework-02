@@ -27,7 +27,7 @@ button {
 /* body */
 body {
   font-family: "Roboto", sans-serif;
-  color: var(--navyblue);
+  color: var(--slate)
   background-color: #fff;
 }
 /* <!-- PAGE HEADER --> */
@@ -42,7 +42,7 @@ body {
   letter-spacing: 0.03em;
   text-transform: uppercase;
 }
-.main-logotype-part-one {
+.main-logotype-part-two {
   color: var(--navyblue);
 }
 
@@ -61,7 +61,7 @@ body {
 .link:active {
   color: var(--ocean);
 }
-.address {
+.address-contacts {
   font-style: normal;
 }
 .address-list-link {
@@ -97,7 +97,7 @@ body {
 }
 .button-order:hover,
 .button-order:focus {
-  color: var(--ocean);
+  background-color: var(--ocean);
 }
 
 /* <!-- SKILLS SECTION --> */
