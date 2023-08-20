@@ -157,10 +157,10 @@ body {
   /* del background color */
 }
 /* <!-- Portfolio Section --> */
-.porfolio-section {
+.portfolio-section {
   background-color: var(--white);
 }
-.porfolio-section-title {
+.portfolio-section-title {
   color: var(--slate);
   text-align: center;
   font-size: 36px;
@@ -169,7 +169,7 @@ body {
   letter-spacing: 0.02em;
   text-transform: capitalize;
 }
-.porfolio-section-list-title {
+.portfolio-section-list-title {
   color: #2e2f42;
   text-align: center;
   font-size: 20px;
@@ -178,7 +178,7 @@ body {
   letter-spacing: 0.02em;
 }
 
-.porfolio-section-list-services {
+.portfolio-section-list-services {
   font-size: 16px;
   font-weight: 400;
   line-height: 1.5; /* 150% */
