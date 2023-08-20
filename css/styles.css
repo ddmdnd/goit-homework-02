@@ -103,7 +103,7 @@ body {
 /* <!-- SKILLS SECTION --> */
 
 .skill-section-item-title {
-  color: #ffffff;
+  color: var(--navyblue);
   font-size: 20px;
   font-weight: 500;
   line-height: 1.2; /* 120% */
@@ -133,7 +133,7 @@ body {
 .team-section-list {
   background-color: #ffffff;
 }
-
+/* chenged backround-color */
 .team-section-list-title {
   color: var(--navyblue);
   text-align: center;
@@ -141,6 +141,7 @@ body {
   font-weight: 500;
   line-height: 1.2; /* 120% */
   letter-spacing: 0.02em;
+  background-color: #ffffff;
 }
 .team-section-position {
   color: var(--slate);
