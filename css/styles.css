@@ -21,6 +21,9 @@ a:hover,
 a:focus {
   color: var(--ocean);
 }
+button {
+  cursor: pointer;
+}
 /* body */
 body {
   font-family: "Roboto", sans-serif;
