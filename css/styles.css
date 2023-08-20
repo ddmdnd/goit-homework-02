@@ -132,7 +132,7 @@ body {
   line-height: 1.11; /* 111.111% */
   letter-spacing: 0.02em;
   text-transform: capitalize;
- /* del background color */
+  /* del background color */
 }
 .team-section-list {
   background-color: #ffffff;
@@ -145,7 +145,8 @@ body {
   font-weight: 500;
   line-height: 1.2; /* 120% */
   letter-spacing: 0.02em;
-  /* background-color: #ffffff; */
+}
+/* background-color: #ffffff; */
 
 .team-section-position {
   color: var(--slate);
