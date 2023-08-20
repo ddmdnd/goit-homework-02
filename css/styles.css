@@ -27,7 +27,7 @@ button {
 /* body */
 body {
   font-family: "Roboto", sans-serif;
-  color: var(--slate)
+  color: var(--slate);
   background-color: #fff;
 }
 /* <!-- PAGE HEADER --> */
